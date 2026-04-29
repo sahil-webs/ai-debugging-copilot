@@ -1,5 +1,6 @@
 # ai-debugging-copilot
 AI tool that analyzes code, retrieves relevant context using RAG, and suggests bug fixes with explanations.
+
 # AI Debugging Copilot
 
 This project is a small attempt to make debugging less painful.
